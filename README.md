@@ -1,6 +1,11 @@
 # 😉Hi, I’m Anant Tiwari🚀
-
 **🎯 A passionate Full Stack Developer || 3D Enthusiast || Tech Explorer**
+---
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
 
 - 💼**Currently building** real-world projects using React, Node.js, MongoDB, and Blender  
 - 📦**Freelancing** under the brand "Computer Look" to deliver high-quality digital solutions  
@@ -9,6 +14,7 @@
 - 🌱 **Constantly** learning and exploring: AI, Web3, and 3D design  
 - 📫 **Reach** me at: (ananttiwari449@gmail.com) 
 - ⚡ **Fun fact** I believe in turning ideas into impactful products
+
 
 
 # 📂 Portfolio:
