@@ -13,7 +13,7 @@
 - 🛠️ **SKILL**: `JavaScript`, `React`, `Node.js`, `MongoDB`, `Python`, `Blender`, `Git`, `REST APIs`  
 - 🎮 **ALSO**: a gamer and YouTuber creating content around gaming & tech
 - 🌱 **EXPLORING**:` AI`, `Web3`, and `3D design`  
-- 📫Reach: [ananttiwari449@gmail.com](mailto:ananttiwari449@gmail.com)
+- 📫**REACH**: [ananttiwari449@gmail.com](mailto:ananttiwari449@gmail.com)
 - ⚡ **FUN FACT**: I believe in turning ideas into impactful products
 
 ---
