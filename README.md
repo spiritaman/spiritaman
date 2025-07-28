@@ -29,21 +29,7 @@
 ## 📁 Portfolio:
 
 <p align="center">
-  <a href="https://bigwaystudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Bigway%20Studio-%230d1117?style=for-the-badge&logo=Google%20Chrome&logoColor=purple" alt="Bigway Studio" />
-  </a>
-  <a href="https://housecircle.in/" target="_blank">
-    <img src="https://img.shields.io/badge/House%20Circle-%230d1117?style=for-the-badge&logo=HomeAdvisor&logoColor=purple" alt="House Circle" />
-  </a>
-  <a href="https://feelclothing.in/" target="_blank">
-    <img src="https://img.shields.io/badge/Feel%20Clothing-%230d1117?style=for-the-badge&logo=Shopify&logoColor=purple" alt="Feel Clothing" />
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=com.ongaku" target="_blank">
-    <img src="https://img.shields.io/badge/Ongaku%20App-%230d1117?style=for-the-badge&logo=Google%20Play&logoColor=purple" alt="Ongaku App" />
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=co.kevin.zpkth" target="_blank">
-    <img src="https://img.shields.io/badge/Kevin%20Notes%20App-%230d1117?style=for-the-badge&logo=Google%20Play&logoColor=purple" alt="Kevin Notes App" />
-  </a>
+  <a href="https://bigwaystudio.com/" target="_blank"><img src="https://img.shields.io/badge/BIGWAY%20STUDIO-%230d1117?style=for-the-badge&logo=Google%20Chrome&logoColor=purple" alt="Bigway Studio" /></a><a href="https://housecircle.in/" target="_blank"><img src="https://img.shields.io/badge/HOUSE%20CIRCLE-%230d1117?style=for-the-badge&logo=HomeAdvisor&logoColor=purple" alt="House Circle" /></a><a href="https://feelclothing.in/" target="_blank"><img src="https://img.shields.io/badge/FEEL%20CLOTHING-%230d1117?style=for-the-badge&logo=Shopify&logoColor=purple" alt="Feel Clothing" /></a><a href="https://play.google.com/store/apps/details?id=com.ongaku" target="_blank"><img src="https://img.shields.io/badge/ONGAKU%20APP-%230d1117?style=for-the-badge&logo=Google%20Play&logoColor=purple" alt="Ongaku App" /></a><a href="https://play.google.com/store/apps/details?id=co.kevin.zpkth" target="_blank"><img src="https://img.shields.io/badge/KEVIN%20NOTES%20APP-%230d1117?style=for-the-badge&logo=Google%20Play&logoColor=purple" alt="Kevin Notes App" /></a>
 </p>
 
 
