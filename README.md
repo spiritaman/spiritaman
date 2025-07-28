@@ -30,19 +30,19 @@
 
 <p align="center">
   <a href="https://bigwaystudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Bigway%20Studio-%230d1117?style=for-the-badge&logo=Google%20Chrome&logoColor=purple" />
+    <img src="https://img.shields.io/badge/Bigway%20Studio-%230d1117?style=for-the-badge&logo=Google%20Chrome&logoColor=purple" alt="Bigway Studio" />
   </a>
   <a href="https://housecircle.in/" target="_blank">
-    <img src="https://img.shields.io/badge/House%20Circle-%230d1117?style=for-the-badge&logo=HomeAdvisor&logoColor=purple" />
+    <img src="https://img.shields.io/badge/House%20Circle-%230d1117?style=for-the-badge&logo=HomeAdvisor&logoColor=purple" alt="House Circle" />
   </a>
   <a href="https://feelclothing.in/" target="_blank">
-    <img src="https://img.shields.io/badge/Feel%20Clothing-%230d1117?style=for-the-badge&logo=Shopify&logoColor=purple" />
+    <img src="https://img.shields.io/badge/Feel%20Clothing-%230d1117?style=for-the-badge&logo=Shopify&logoColor=purple" alt="Feel Clothing" />
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.ongaku" target="_blank">
-    <img src="https://img.shields.io/badge/Ongaku%20App-%230d1117?style=for-the-badge&logo=Google%20Play&logoColor=purple" />
+    <img src="https://img.shields.io/badge/Ongaku%20App-%230d1117?style=for-the-badge&logo=Google%20Play&logoColor=purple" alt="Ongaku App" />
   </a>
   <a href="https://play.google.com/store/apps/details?id=co.kevin.zpkth" target="_blank">
-    <img src="https://img.shields.io/badge/Kevin%20Notes%20App-%230d1117?style=for-the-badge&logo=Google%20Play&logoColor=purple" />
+    <img src="https://img.shields.io/badge/Kevin%20Notes%20App-%230d1117?style=for-the-badge&logo=Google%20Play&logoColor=purple" alt="Kevin Notes App" />
   </a>
 </p>
 
