@@ -7,6 +7,7 @@
 🎮 Also a gamer and YouTuber creating content around gaming & tech
 🌱 Constantly learning and exploring: AI, Web3, and 3D design  
 📫 Reach me at: (ananttiwari449@gmail.com) 
+
 ⚡ Fun fact: I believe in turning ideas into impactful products
 
 📂 Portfolio:
