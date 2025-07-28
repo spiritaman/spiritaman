@@ -12,7 +12,7 @@
 - 📦**FREELANCING**: under the brand "Computer Look" to deliver high-quality digital solutions  
 - 🛠️ **SKILL**: `JavaScript`, `React`, `Node.js`, `MongoDB`, `Python`, `Blender`, `Git`, `REST APIs`  
 - 🎮 **ALSO**: a gamer and YouTuber creating content around gaming & tech
-- 🌱 **CONSTANTLY**: learning and exploring:` AI`, `Web3`, and `3D design`  
+- 🌱 **EXPLORING**:` AI`, `Web3`, and `3D design`  
 - 📫Reach: [ananttiwari449@gmail.com](mailto:ananttiwari449@gmail.com)
 - ⚡ **FUN FACT**: I believe in turning ideas into impactful products
 
