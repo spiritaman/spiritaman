@@ -1,6 +1,6 @@
-#😉Hi, I’m Anant Tiwari  
+#😉Hi, I’m Anant Tiwari#
 
-**🎯 A passionate Full Stack Developer | 3D Enthusiast | Tech Explorer**
+**🎯 A passionate Full Stack Developer || 3D Enthusiast || Tech Explorer**
 
 - 💼**Currently building** real-world projects using React, Node.js, MongoDB, and Blender  
 - 📦**Freelancing** under the brand "Computer Look" to deliver high-quality digital solutions  
