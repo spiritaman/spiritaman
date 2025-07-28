@@ -1,7 +1,7 @@
 
 
 # 😉Hi, I’m Anant Tiwari🚀
- **🎯 A passionate Full Stack Developer || 3D Enthusiast || Tech Explorer** 
+ *🎯 A passionate Full Stack Developer || 3D Enthusiast || Tech Explorer*
 
 
 - 💼**Currently building** real-world projects using React, Node.js, MongoDB, and Blender  
@@ -22,11 +22,11 @@
 
 
 # 📂 Portfolio:
-👉 https://bigwaystudio.com/
-👉 https://housecircle.in/
-👉 https://feelclothing.in/
-👉 https://play.google.com/store/apps/details?id=com.ongaku
-👉https://play.google.com/store/apps/details?id=co.kevin.zpkth
+-  https://bigwaystudio.com/
+-  https://housecircle.in/
+  -  https://feelclothing.in/
+- https://play.google.com/store/apps/details?id=com.ongaku
+- https://play.google.com/store/apps/details?id=co.kevin.zpkth
 
 ---
 
