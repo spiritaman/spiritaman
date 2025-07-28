@@ -8,13 +8,13 @@
  *🎯 A passionate Full Stack Developer || 3D Enthusiast || Tech Explorer*
 
 
-- 💼**Currently building** real-world projects using React, Node.js, MongoDB, and Blender  
-- 📦**Freelancing** under the brand "Computer Look" to deliver high-quality digital solutions  
-- 🛠️ **Skill** JavaScript, React, Node.js, MongoDB, Python, Blender, Git, REST APIs  
-- 🎮 **Also** a gamer and YouTuber creating content around gaming & tech
-- 🌱 **Constantly** learning and exploring: AI, Web3, and 3D design  
-- 📫 **Reach** me at: (ananttiwari449@gmail.com) 
-- ⚡ **Fun fact** I believe in turning ideas into impactful products
+- 💼**CURRENTLY**: building real-world projects using `React`, `Node.js`, `MongoDB`, and `Blender`  
+- 📦**FREELANCING**: under the brand "Computer Look" to deliver high-quality digital solutions  
+- 🛠️ **SKILL**: `JavaScript`, `React`, `Node.js`, `MongoDB`, `Python`, `Blender`, `Git`, `REST APIs`  
+- 🎮 **ALSO**: a gamer and YouTuber creating content around gaming & tech
+- 🌱 **CONSTANTLY**: learning and exploring:` AI`, `Web3`, and `3D design`  
+- 📫 **REACH**: me at (ananttiwari449@gmail.com) 
+- ⚡ **FUN FACT**: I believe in turning ideas into impactful products
 
 ---
 
