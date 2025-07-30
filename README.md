@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=BB00FF&center=true&vCenter=true&width=500&lines=HI+I'M+ANANT+TIWARI;A+FULL+STACK+DEV+%7C+3D+ENTHUSIAST+%7C+EXPLORER;WELCOME+TO+MY+ALTERNATIVE+REALITY" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=BB00FF&center=true&vCenter=true&width=500&lines=HI+I'M+ANANT+TIWARI;+FULL+STACK+DEV+%7C+3D+ENTHUSIAST+%7C+EXPLORER;WELCOME+TO+MY+ALTERNATIVE+REALITY" alt="Typing SVG" />
 </p>
 <p align="center">💜</p>
 
